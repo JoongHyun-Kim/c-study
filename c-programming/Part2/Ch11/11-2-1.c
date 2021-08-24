@@ -1,3 +1,4 @@
+// 영단어를 입력 받아서 입력 받은 영단어의 길이를 계산하여 출력
 #include <stdio.h>
 
 int main(void)
